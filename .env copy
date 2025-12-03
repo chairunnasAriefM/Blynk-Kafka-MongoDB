@@ -1,0 +1,7 @@
+BLYNK_TOKEN=sL-psSUIZpz9WlKXcB2NrhIh2WbTvzid
+KAFKA_BROKER=localhost:9092
+MONGO_URL=mongodb://localhost:27017
+MONGO_DB=iot_db
+
+# MONGO_URL=mongodb+srv://username:password@cluster0.abcd.mongodb.net
+
